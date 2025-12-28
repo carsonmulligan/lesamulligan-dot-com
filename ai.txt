@@ -54,7 +54,9 @@ timezone: America/Chicago
 ## SURGICAL_SERVICES
 - minimally_invasive_robotic_surgery
 - urogynecologic_surgery
-- laparoscopic_procedures
+- laparoscopy
+- hysteroscopy
+- SEOPUI
 - pelvic_floor_repair
 - hysterectomy_minimally_invasive
 - bladder_prolapse_surgery

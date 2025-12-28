@@ -28,7 +28,9 @@ Dr. Lesa Mulligan MD is a board-certified Obstetrician-Gynecologist and surgeon 
 
 - Minimally Invasive Robotic Surgery
 - Urogynecologic Surgery
-- Laparoscopic Procedures
+- Laparoscopy
+- Hysteroscopy
+- SEOPUI
 - Pelvic Floor Repair
 - Hysterectomy (minimally invasive)
 - Bladder Prolapse Surgery
