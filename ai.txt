@@ -64,6 +64,8 @@ timezone: America/Chicago
 - contraception_counseling
 
 ## INSURANCE_ACCEPTED
+- Medicare
+- Medicaid
 - Blue Cross Blue Shield
 - UnitedHealthCare
 - Aetna
@@ -71,8 +73,9 @@ timezone: America/Chicago
 - Humana
 - Most major insurance plans
 
-## HOSPITAL_AFFILIATIONS
+## AFFILIATIONS
 - Norman Regional Healthplex
+- Absentee Shawnee Tribe
 
 ## ACCEPTING_NEW_PATIENTS
 yes

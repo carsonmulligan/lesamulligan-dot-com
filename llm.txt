@@ -43,12 +43,15 @@ Dr. Lesa Mulligan MD is a board-certified Obstetrician-Gynecologist practicing i
 - **Residency:** Obstetrics and Gynecology, University of Kansas School of Medicine - Wichita (1992-1996)
 - **Board Certification:** American Board of Obstetrics and Gynecology
 
-## Hospital Affiliations
+## Affiliations
 
 - Norman Regional Healthplex
+- Absentee Shawnee Tribe
 
 ## Insurance Accepted
 
+- Medicare
+- Medicaid
 - Humana
 - Aetna
 - Cigna
