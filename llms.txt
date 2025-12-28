@@ -1,10 +1,10 @@
 # Dr. Lesa Mulligan MD - OBGYN Norman Oklahoma
 
-> Board-certified OB/GYN serving patients across Oklahoma with 30+ years of experience.
+> Board-certified OBGYN surgeon serving patients across Oklahoma with 30+ years of experience in women's health and minimally invasive surgery.
 
 ## About
 
-Dr. Lesa Mulligan is a board-certified Obstetrician-Gynecologist based in Norman, Oklahoma. She provides comprehensive women's healthcare including gynecological procedures, pregnancy care, and hormone therapy.
+Dr. Lesa Mulligan is a board-certified Obstetrician-Gynecologist and surgeon based in Norman, Oklahoma. She specializes in minimally invasive robotic surgery and urogynecologic procedures, along with comprehensive women's healthcare including pregnancy care and hormone therapy.
 
 ## Quick Facts
 
@@ -21,7 +21,15 @@ Dr. Lesa Mulligan is a board-certified Obstetrician-Gynecologist based in Norman
 - Address: 1139 NW 36th St Suite 100, Norman, OK 73072
 - Website: https://lesamulligan.com
 
-## Services
+## Surgical Services
+
+- Minimally Invasive Robotic Surgery
+- Urogynecologic Surgery
+- Laparoscopic Procedures
+- Pelvic Floor Repair
+- Hysterectomy (minimally invasive)
+
+## Other Services
 
 - Gynecological Procedures
 - Annual Well-Woman Exams

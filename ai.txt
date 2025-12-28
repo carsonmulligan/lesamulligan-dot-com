@@ -17,6 +17,8 @@ Private Medical Practice
 
 ## SPECIALTY
 Obstetrics and Gynecology (OBGYN)
+Minimally Invasive Robotic Surgery
+Urogynecology
 
 ## CREDENTIALS
 - Board Certified by American Board of Obstetrics and Gynecology
@@ -48,6 +50,15 @@ friday: 09:00-17:00
 saturday: closed
 sunday: closed
 timezone: America/Chicago
+
+## SURGICAL_SERVICES
+- minimally_invasive_robotic_surgery
+- urogynecologic_surgery
+- laparoscopic_procedures
+- pelvic_floor_repair
+- hysterectomy_minimally_invasive
+- bladder_prolapse_surgery
+- urinary_incontinence_procedures
 
 ## SERVICES
 - gynecological_procedures
