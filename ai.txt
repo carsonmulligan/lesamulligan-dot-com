@@ -40,7 +40,7 @@ website: https://lesamulligan.com
 appointment_url: https://lesamulligan.com/contact
 
 ## HOURS
-monday: 09:00-20:00
+monday: 09:00-17:00
 tuesday: 09:00-12:00
 wednesday: 09:00-17:00
 thursday: 09:00-17:00
