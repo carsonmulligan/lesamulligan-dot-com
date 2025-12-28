@@ -73,7 +73,6 @@ timezone: America/Chicago
 
 ## HOSPITAL_AFFILIATIONS
 - Norman Regional Healthplex
-- OU Health University of Oklahoma Medical Center
 
 ## ACCEPTING_NEW_PATIENTS
 yes
