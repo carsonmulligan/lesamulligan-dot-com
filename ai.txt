@@ -56,7 +56,6 @@ timezone: America/Chicago
 - urogynecologic_surgery
 - laparoscopy
 - hysteroscopy
-- SEOPUI
 - pelvic_floor_repair
 - hysterectomy_minimally_invasive
 - bladder_prolapse_surgery
