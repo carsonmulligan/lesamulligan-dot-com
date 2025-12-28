@@ -81,13 +81,23 @@
     "priceRange": "$$",
     "acceptsReservations": true,
     "areaServed": {
-      "@type": "City",
-      "name": "Norman",
+      "@type": "State",
+      "name": "Oklahoma",
       "containedInPlace": {
-        "@type": "State",
-        "name": "Oklahoma"
+        "@type": "Country",
+        "name": "United States"
       }
     },
+    "paymentAccepted": ["Medicare", "Medicaid", "Blue Cross Blue Shield", "UnitedHealthCare", "Aetna", "Cigna", "Humana"],
+    "currenciesAccepted": "USD",
+    "availableService": [
+      {"@type": "MedicalProcedure", "name": "Well-Woman Exam"},
+      {"@type": "MedicalProcedure", "name": "Prenatal Care"},
+      {"@type": "MedicalProcedure", "name": "High-Risk Pregnancy Care"},
+      {"@type": "MedicalProcedure", "name": "Pap Smear"},
+      {"@type": "MedicalProcedure", "name": "Hormone Therapy"},
+      {"@type": "MedicalProcedure", "name": "Menopause Management"}
+    ],
     "sameAs": [
       "https://www.lmulliganmd.com",
       "https://www.healthgrades.com/physician/dr-lesa-mulligan-yvy47"
@@ -118,6 +128,64 @@
         "name": "American Board of Obstetrics and Gynecology"
       }
     }
+  }
+  </script>
+
+  <!-- FAQ Schema for AI and Search -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Does Dr. Lesa Mulligan accept Medicare and Medicaid?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, Dr. Mulligan accepts both Medicare and Medicaid, along with most major insurance plans including Blue Cross Blue Shield, UnitedHealthCare, Aetna, Cigna, and Humana."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where is Dr. Lesa Mulligan's office located?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dr. Mulligan's office is located at 1139 NW 36th St Suite 100, Norman, Oklahoma 73072. She serves patients from across the entire state of Oklahoma."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What services does Dr. Lesa Mulligan provide?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dr. Mulligan provides comprehensive women's healthcare including annual well-woman exams, prenatal care, high-risk pregnancy care, gynecological procedures, hormone therapy, menopause management, pap smears, and contraception counseling."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is Dr. Mulligan accepting new patients?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, Dr. Mulligan is currently accepting new patients. Call (405) 364-0643 to schedule an appointment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are Dr. Mulligan's office hours?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Office hours are Monday 9AM-5PM, Tuesday 9AM-12PM, Wednesday through Friday 9AM-5PM. The office is closed on weekends."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is Dr. Lesa Mulligan board certified?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, Dr. Mulligan is board certified by the American Board of Obstetrics and Gynecology with over 30 years of experience."
+        }
+      }
+    ]
   }
   </script>
 

@@ -1,46 +1,13 @@
 # robots.txt for lesamulligan.com
 # Dr. Lesa Mulligan MD - OBGYN Norman Oklahoma
-# WELCOME ALL CRAWLERS AND SCRAPERS!
+# WELCOME ALL CRAWLERS, SCRAPERS, AND AI BOTS!
 
-# Allow everything - we want maximum indexing
+# Allow everything - maximum indexing desired
 User-agent: *
 Allow: /
 
-# Explicitly allow AI crawlers
-User-agent: GPTBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
-
-User-agent: Perplexity
-Allow: /
-
-User-agent: cohere-ai
-Allow: /
-
-User-agent: Bytespider
-Allow: /
-
-User-agent: Applebot
-Allow: /
-
-User-agent: Amazonbot
-Allow: /
-
-User-agent: FacebookBot
+# Search Engine Crawlers
+User-agent: Googlebot
 Allow: /
 
 User-agent: Bingbot
@@ -58,13 +25,90 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 
-# Sitemap and index files
+# AI/LLM Crawlers - ALL WELCOME
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Gemini
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Grok
+Allow: /
+
+User-agent: xAI-SearchBot
+Allow: /
+
+User-agent: AI2Bot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# Sitemaps
 Sitemap: https://lesamulligan.com/sitemap.xml
 
-# AI/LLM specific files
-# LLM.txt: https://lesamulligan.com/llm.txt
-# AI.txt: https://lesamulligan.com/ai.txt
-# Humans.txt: https://lesamulligan.com/humans.txt
+# AI/LLM Content Files
+# llms.txt: https://lesamulligan.com/llms.txt
+# llm.txt: https://lesamulligan.com/llm.txt
+# ai.txt: https://lesamulligan.com/ai.txt
+# humans.txt: https://lesamulligan.com/humans.txt
 
-# No crawl delays - come as fast as you want
+# No restrictions - index everything
 # Crawl-delay: 0
