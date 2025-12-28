@@ -1,130 +1,171 @@
-# Logo Creation Instructions for Nano/Banana AI
+# Logo & Image Creation for Nano Banana AI
 
 ## Business Info
 - **Name:** Dr. Lesa Mulligan, MD
-- **Specialty:** Obstetrics & Gynecology (OB-GYN)
+- **Specialty:** OBGYN & Robotic Surgery
 - **Tagline:** "Taking Care of Generations"
 - **Location:** Norman, Oklahoma
 
 ---
 
-## MAIN PROMPT - Create from Scratch
+## NANO BANANA ASPECT RATIOS
 
+| Aspect Ratio | Use Case | Pixel Dimensions |
+|--------------|----------|------------------|
+| **1:1** | Logo, Square ads, Social profiles | 1200 x 1200 |
+| **16:9** | Landscape ads, Website hero | 1200 x 675 |
+| **3:2** | Horizontal images | 1200 x 800 |
+| **4:3** | Standard photos | 1200 x 900 |
+| **9:16** | Vertical/Mobile | 675 x 1200 |
+| **4:5** | Portrait | 960 x 1200 |
+| **21:9** | Ultra-wide banner | 1200 x 514 |
+
+---
+
+## GOOGLE ADS REQUIREMENTS
+
+### Images (Required: 1 square + 1 horizontal)
+
+**Horizontal Image:**
+- Minimum: 600 x 314 px
+- Recommended: **1200 x 628 px**
+- Max: 4096 x 4096 px
+- **Nano Banana: Use 16:9 aspect ratio**
+
+**Square Image:**
+- Minimum: 300 x 300 px
+- Recommended: **1200 x 1200 px**
+- Max: 4096 x 4096 px
+- **Nano Banana: Use 1:1 aspect ratio**
+
+### Logo (Required: 1 square)
+
+- Minimum: 128 x 128 px
+- Recommended: **1200 x 1200 px**
+- Max: 4096 x 4096 px
+- **Nano Banana: Use 1:1 aspect ratio**
+
+---
+
+## PROMPTS FOR NANO BANANA
+
+### 1. LOGO (1:1 Square)
 ```
 Create a professional medical logo for an OB-GYN practice:
 
-DESIGN CONCEPT:
-A stylized tree with a human figure incorporated into the trunk. The tree represents growth, life, family, and generations of care. The figure represents the nurturing care of women's health - arms reaching upward forming branches.
+DESIGN: A stylized tree with a human figure as the trunk. The figure has arms reaching upward that become branches. Pink and purple teardrop-shaped leaves form a canopy above.
 
-TREE DESIGN:
-- Abstract human figure as the trunk/base - tan/beige colored (#C4A882)
-- The figure has arms reaching upward that transition into branches
-- Leaves arranged in a semi-circular canopy above the figure
-- Leaves should be teardrop/petal shaped, scattered organically
-- Mix of pink (#E8A0B5, #F5D0DC) and purple/mauve (#9B7BB8, #D4B8D5) colored leaves
-- Approximately 25-35 leaves total creating a full, abundant look
-
-TEXT LAYOUT (below the tree):
-Line 1: "Lesa Mulligan, MD" - elegant handwritten/script font, dusty rose pink color (#C17B8E)
-Line 2: "Ob-Gyn" - stylized script font, mauve/purple color (#8B5A8C)
-Line 3: "TAKING CARE OF GENERATIONS" - small caps, clean sans-serif, spaced out, gray (#666666)
-
-STYLE:
-- Feminine but professional
-- Soft, welcoming, nurturing feel
-- Medical/healthcare appropriate
-- Modern yet timeless
-- Clean with adequate white space
+TEXT (centered below tree):
+- "Lesa Mulligan, MD" in elegant script, dusty rose color
+- "Ob-Gyn" in stylized script, mauve purple
+- "TAKING CARE OF GENERATIONS" in small caps, gray
 
 COLORS:
-- Leaves: Gradient of pinks (#F5D0DC light, #E8A0B5 medium) and purples (#D4B8D5 light, #9B7BB8 medium)
-- Figure/trunk: Warm tan/beige (#C4A882)
-- Text: Dusty rose and mauve tones
-- Background: Transparent
+- Leaves: Pink #E8A0B5, #F5D0DC and purple #9B7BB8, #D4B8D5
+- Figure/trunk: Tan #C4A882
+- Text: Dusty rose #C17B8E, purple #8B5A8C
 
-OUTPUT:
-- PNG format with transparent background
-- High resolution, clean edges
+STYLE: Feminine, professional, medical, clean white background
+```
+
+### 2. GOOGLE ADS - SQUARE IMAGE (1:1)
+```
+Professional healthcare image for OBGYN practice advertisement:
+
+SCENE: Warm, welcoming medical office setting. Soft natural lighting. Clean and modern.
+
+INCLUDE: Stethoscope, medical chart or tablet, soft pink/mauve accent colors matching brand (#E8A0B5, #9B7BB8)
+
+STYLE: Professional, trustworthy, feminine, inviting
+TEXT: None (Google adds text overlay)
+MOOD: Compassionate care, expertise, comfort
+
+Do NOT include: Faces, patients, specific medical procedures
+```
+
+### 3. GOOGLE ADS - HORIZONTAL IMAGE (16:9)
+```
+Professional healthcare banner image for OBGYN practice:
+
+SCENE: Modern medical office interior or abstract medical background. Clean lines, soft lighting.
+
+COLORS: Incorporate brand colors - soft pink #E8A0B5, mauve purple #9B7BB8, warm tan accents #C4A882
+
+ELEMENTS: Medical imagery (stethoscope, gentle hands, flowers/nature elements suggesting care and growth)
+
+STYLE: Professional, welcoming, feminine healthcare aesthetic
+MOOD: Trust, expertise, compassionate care
+COMPOSITION: Leave space on left or right for text overlay
+
+Do NOT include: Faces, patients, graphic medical content
+```
+
+### 4. SOCIAL SHARING IMAGE (16:9)
+```
+Professional OG image for OBGYN website:
+
+LAYOUT:
+- Left side: Tree logo with pink/purple leaves and tan figure
+- Right side:
+  - "Dr. Lesa Mulligan, MD"
+  - "Board-Certified OBGYN"
+  - "(405) 364-0643"
+  - "Norman, Oklahoma"
+
+BACKGROUND: Soft gradient, light pink to white
+STYLE: Clean, professional, medical branding
 ```
 
 ---
 
-## Dimension Specifications
+## FILES TO CREATE
 
-| File Name | Dimensions | Use Case |
-|-----------|------------|----------|
-| `logo-primary.png` | **500 x 600 px** | Main logo (portrait) |
-| `logo-square.png` | **500 x 500 px** | Social media profiles |
-| `logo-header.png` | **400 x 120 px** | Website header (wide) |
-| `favicon.png` | **32 x 32 px** | Browser tab |
-| `apple-touch-icon.png` | **180 x 180 px** | iOS bookmark |
-| `icon-192.png` | **192 x 192 px** | Android/PWA |
-| `icon-512.png` | **512 x 512 px** | Android/PWA splash |
-| `og-image.png` | **1200 x 630 px** | Social sharing |
+### For Google Ads (Priority)
+| File | Dimensions | Nano Banana Ratio | Purpose |
+|------|------------|-------------------|---------|
+| `google-ad-square.png` | 1200 x 1200 | 1:1 | Square ad image |
+| `google-ad-landscape.png` | 1200 x 628 | 16:9 | Horizontal ad image |
+| `google-ad-logo.png` | 1200 x 1200 | 1:1 | Logo for ads |
 
----
+### For Website
+| File | Dimensions | Nano Banana Ratio | Purpose |
+|------|------------|-------------------|---------|
+| `logo-square.png` | 1200 x 1200 | 1:1 | Primary logo |
+| `og-image.png` | 1200 x 630 | 16:9 | Social sharing |
+| `hero-image.png` | 1200 x 675 | 16:9 | Website hero |
 
-## Simplified Version Prompt (Icon Only)
-
-```
-Create a simple icon version of a tree with human figure:
-
-- Minimalist silhouette of person with arms up forming tree branches
-- Small cluster of circular/teardrop leaves above
-- Single color: mauve purple (#8B5A8C)
-- Or two-tone: tan figure (#C4A882) with pink leaves (#E8A0B5)
-- Clean, recognizable at small sizes
-- Square format, transparent background
-- 512 x 512 px
-```
+### For Favicons (already created)
+| File | Dimensions | Status |
+|------|------------|--------|
+| `favicon.svg` | Vector | ✅ Done |
+| `favicon.png` | 32 x 32 | ✅ Done |
+| `apple-touch-icon.png` | 180 x 180 | ✅ Done |
+| `icon-192.png` | 192 x 192 | ✅ Done |
+| `icon-512.png` | 512 x 512 | ✅ Done |
 
 ---
 
-## Text-Only Version Prompt
+## COLOR PALETTE (Copy/Paste for Nano Banana)
 
 ```
-Create a clean typographic logo:
-
-"Lesa Mulligan, MD"
-- Elegant serif or script font
-- Dusty rose/mauve color (#8B5A8C)
-
-Below in smaller text:
-"Obstetrics & Gynecology"
-- Clean sans-serif font
-- Lighter gray (#666666)
-
-Optional: Small decorative leaf or petal accent
-- Single pink (#E8A0B5) teardrop shape near the text
-
-Dimensions: 400 x 150 px
-Transparent background
+Primary Colors:
+- Light Pink: #F5D0DC
+- Medium Pink: #E8A0B5
+- Dusty Rose: #C17B8E
+- Light Mauve: #D4B8D5
+- Medium Mauve: #9B7BB8
+- Primary Purple: #8B5A8C
+- Warm Tan: #C4A882
+- Text Gray: #666666
+- White: #FFFFFF
 ```
 
 ---
 
-## Color Palette
+## QUICK START CHECKLIST
 
-| Name | Hex | RGB | Use |
-|------|-----|-----|-----|
-| Light Pink | #F5D0DC | 245, 208, 220 | Leaves |
-| Medium Pink | #E8A0B5 | 232, 160, 181 | Leaves, accents |
-| Dusty Rose | #C17B8E | 193, 123, 142 | Text |
-| Light Mauve | #D4B8D5 | 212, 184, 213 | Leaves |
-| Medium Mauve | #9B7BB8 | 155, 123, 184 | Leaves |
-| Primary Purple | #8B5A8C | 139, 90, 140 | Main text, icons |
-| Warm Tan | #C4A882 | 196, 168, 130 | Figure |
-| Text Gray | #666666 | 102, 102, 102 | Tagline |
-
----
-
-## Reference Description of Original Logo
-
-The original logo (for reference only - we're creating new):
-- Tree made of pink and purple teardrop-shaped leaves (about 30 leaves)
-- Tan/beige abstract human figure as the trunk
-- Figure's arms reach up and become branches holding the leaves
-- Leaves arranged in a dome/umbrella shape above the figure
-- Previously had two names side by side - now only need "Lesa Mulligan, MD"
-- "Ob-Gyn" in stylized pink script below
-- "TAKING CARE OF GENERATIONS" in small caps at bottom
+1. [ ] Open Nano Banana / Replicate
+2. [ ] Generate logo at **1:1** ratio → save as `google-ad-logo.png`
+3. [ ] Generate square image at **1:1** ratio → save as `google-ad-square.png`
+4. [ ] Generate landscape image at **16:9** ratio → save as `google-ad-landscape.png`
+5. [ ] Upload all 3 to Google Ads
