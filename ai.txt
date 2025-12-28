@@ -87,13 +87,8 @@ yes
 30+
 
 ## SERVICE_AREA
-- Norman, OK
-- Oklahoma City, OK
-- Moore, OK
-- Midwest City, OK
-- Del City, OK
-- Edmond, OK
-- Cleveland County, OK
+- All of Oklahoma
+- Based in Norman, OK
 
 ## KEYWORDS
 OBGYN, gynecologist, obstetrician, womens health, pregnancy care, prenatal care, high risk pregnancy, hormone therapy, menopause, pap smear, well woman exam, Norman Oklahoma, Oklahoma City
