@@ -1,0 +1,120 @@
+# AI.txt - Machine-Readable Information for AI Crawlers
+# Dr. Lesa Mulligan MD - OBGYN Norman Oklahoma
+# Version: 1.0
+# Last Updated: 2025-12-28
+
+## ENTITY_TYPE
+medical_practice
+
+## ENTITY_NAME
+Dr. Lesa Mulligan MD
+
+## ENTITY_CATEGORY
+Healthcare > Medical Practice > Obstetrics and Gynecology
+
+## BUSINESS_TYPE
+Private Medical Practice
+
+## SPECIALTY
+Obstetrics and Gynecology (OBGYN)
+
+## CREDENTIALS
+- Board Certified by American Board of Obstetrics and Gynecology
+- MD - University of Oklahoma College of Medicine
+- Residency - University of Kansas School of Medicine
+
+## LOCATION
+address: 1139 NW 36th St Suite 100
+city: Norman
+state: Oklahoma
+state_abbr: OK
+zip: 73072
+country: United States
+country_code: US
+region: Oklahoma City Metro Area
+
+## CONTACT
+phone: +1-405-364-0643
+phone_display: (405) 364-0643
+website: https://lesamulligan.com
+appointment_url: https://lesamulligan.com/contact
+
+## HOURS
+monday: 09:00-20:00
+tuesday: 09:00-12:00
+wednesday: 09:00-17:00
+thursday: 09:00-17:00
+friday: 09:00-17:00
+saturday: closed
+sunday: closed
+timezone: America/Chicago
+
+## SERVICES
+- gynecological_procedures
+- annual_well_woman_exams
+- pap_smears
+- cancer_screenings
+- normal_pregnancy_care
+- high_risk_pregnancy_care
+- prenatal_care
+- labor_and_delivery
+- hormone_therapy
+- menopause_management
+- perimenopause_care
+- contraception_counseling
+
+## INSURANCE_ACCEPTED
+- Blue Cross Blue Shield
+- UnitedHealthCare
+- Aetna
+- Cigna
+- Humana
+- Most major insurance plans
+
+## HOSPITAL_AFFILIATIONS
+- Norman Regional Healthplex
+- OU Health University of Oklahoma Medical Center
+
+## ACCEPTING_NEW_PATIENTS
+yes
+
+## LANGUAGES
+- English
+
+## EXPERIENCE_YEARS
+30+
+
+## SERVICE_AREA
+- Norman, OK
+- Oklahoma City, OK
+- Moore, OK
+- Midwest City, OK
+- Del City, OK
+- Edmond, OK
+- Cleveland County, OK
+
+## KEYWORDS
+OBGYN, gynecologist, obstetrician, womens health, pregnancy care, prenatal care, high risk pregnancy, hormone therapy, menopause, pap smear, well woman exam, Norman Oklahoma, Oklahoma City
+
+## RELATED_SEARCHES
+- best obgyn norman oklahoma
+- gynecologist near me norman ok
+- pregnancy doctor norman oklahoma
+- womens health clinic norman ok
+- hormone therapy norman oklahoma
+- obstetrician oklahoma city area
+
+## FACTS
+- Only mother-daughter OBGYN partnership in Oklahoma history (with Dr. Shelba Bethel)
+- Over 70 years combined practice experience
+- Mother of four, grandmother of two
+- Dedicated to improving womens health in Norman Oklahoma since 1996
+
+## SCHEMA_TYPE
+Physician, MedicalBusiness, LocalBusiness
+
+## CRAWL_PERMISSIONS
+allow_all: true
+allow_ai_training: true
+allow_indexing: true
+allow_caching: true

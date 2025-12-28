@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Lesa Mulligan MD - OBGYN Norman Oklahoma</title>
+    <link>https://lesamulligan.com</link>
+    <description>Board-certified OBGYN serving Norman, Oklahoma. Comprehensive women's healthcare including pregnancy care, gynecological services, and hormone therapy.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2025 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://lesamulligan.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Welcome to Dr. Lesa Mulligan MD OBGYN</title>
+      <link>https://lesamulligan.com/</link>
+      <description>Dr. Lesa Mulligan is a board-certified OB/GYN serving Norman, Oklahoma with over 30 years of experience. Now accepting new patients at 1139 NW 36th St Suite 100, Norman, OK 73072. Call (405) 364-0643.</description>
+      <pubDate>Sat, 28 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://lesamulligan.com/</guid>
+    </item>
+
+    <item>
+      <title>Services - Pregnancy Care and Gynecology</title>
+      <link>https://lesamulligan.com/services</link>
+      <description>Comprehensive women's healthcare services including gynecological procedures, normal and high-risk pregnancy care, prenatal care, hormone therapy, menopause management, and more.</description>
+      <pubDate>Sat, 28 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://lesamulligan.com/services</guid>
+    </item>
+
+    <item>
+      <title>About Dr. Lesa Mulligan</title>
+      <link>https://lesamulligan.com/about</link>
+      <description>Board certified by the American Board of Obstetrics and Gynecology. Graduate of University of Oklahoma College of Medicine. Over 30 years of experience. Only mother-daughter OBGYN partnership in Oklahoma history.</description>
+      <pubDate>Sat, 28 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://lesamulligan.com/about</guid>
+    </item>
+  </channel>
+</rss>

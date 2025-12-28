@@ -1,0 +1,29 @@
+/* TEAM */
+Doctor: Dr. Lesa Mulligan, MD
+Title: Board Certified OBGYN
+Location: Norman, Oklahoma
+Education: University of Oklahoma College of Medicine
+Residency: University of Kansas School of Medicine - Wichita
+Board Certification: American Board of Obstetrics and Gynecology
+Experience: 30+ years
+
+/* PRACTICE */
+Name: Dr. Lesa Mulligan MD - OBGYN
+Address: 1139 NW 36th St Suite 100, Norman, OK 73072
+Phone: (405) 364-0643
+Website: lesamulligan.com
+Services: Obstetrics, Gynecology, Pregnancy Care, Hormone Therapy
+Accepting New Patients: Yes
+
+/* HISTORY */
+Dr. Mulligan practiced alongside her mother, Dr. Shelba Bethel,
+making them the only mother-daughter OB/GYN partnership in
+Oklahoma history. Combined practice experience exceeds 70 years.
+
+/* PHILOSOPHY */
+"OB/GYN's with knowledge, expertise, and compassion"
+
+/* SITE */
+Last update: 2025-12-28
+Language: English
+Standards: HTML5, CSS3, Schema.org, SEO Optimized

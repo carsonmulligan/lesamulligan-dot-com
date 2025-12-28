@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Dr. Lesa Mulligan MD - OBGYN",
+  "name_for_model": "dr_lesa_mulligan_obgyn",
+  "description_for_human": "Board-certified OBGYN serving Norman, Oklahoma with over 30 years of experience in women's health care.",
+  "description_for_model": "Dr. Lesa Mulligan is a board-certified Obstetrician-Gynecologist in Norman, Oklahoma. She provides comprehensive women's healthcare including gynecological procedures, pregnancy care (normal and high-risk), hormone therapy, and menopause management. Contact: (405) 364-0643. Address: 1139 NW 36th St Suite 100, Norman, OK 73072. Accepting new patients. Insurance accepted includes BCBS, UnitedHealthCare, Aetna, Cigna, Humana.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://lesamulligan.com/openapi.yaml"
+  },
+  "logo_url": "https://lesamulligan.com/logo.png",
+  "contact_email": "contact@lesamulligan.com",
+  "legal_info_url": "https://lesamulligan.com/privacy"
+}

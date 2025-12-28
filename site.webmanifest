@@ -1,0 +1,10 @@
+{
+  "name": "Dr. Lesa Mulligan MD - OBGYN Norman Oklahoma",
+  "short_name": "Dr. Mulligan",
+  "description": "Board-certified OBGYN serving Norman, Oklahoma. Call (405) 364-0643.",
+  "icons": [],
+  "theme_color": "#8B5A8C",
+  "background_color": "#FAFAFA",
+  "display": "browser",
+  "start_url": "/"
+}

@@ -1,0 +1,12 @@
+# Cloudflare Pages Redirects
+# Ensure www redirects to non-www (or vice versa)
+
+# Common alternate URLs
+/home /
+/index /
+/main /
+
+# Trailing slash normalization
+/about/ /about
+/services/ /services
+/contact/ /contact
