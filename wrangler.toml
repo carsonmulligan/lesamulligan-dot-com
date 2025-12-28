@@ -1,14 +1,3 @@
 # Cloudflare Pages configuration for lesamulligan.com
 name = "lesamulligan-dot-com"
 compatibility_date = "2025-12-28"
-
-# Pages configuration
-pages_build_output_dir = "."
-
-# Custom headers for SEO and caching
-[site]
-bucket = "."
-
-# Environment variables (if needed)
-[vars]
-SITE_NAME = "Dr. Lesa Mulligan MD - OBGYN"
